@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/user/Downloads/Mora-develop/Mora-develop -type f \\\\\\(-name V*.sql -o -name *.sql \\\\\\))",
+      "Bash(docker exec:*)"
+    ]
+  }
+}
